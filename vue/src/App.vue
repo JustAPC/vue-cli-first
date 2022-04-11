@@ -1,9 +1,7 @@
 <template>
   <div id="app">
-    <div class="container">
-      <hero-bg></hero-bg>
-      <title-one></title-one>
-    </div>
+    <hero-bg></hero-bg>
+    <title-one></title-one>
   </div>
 </template>
 
